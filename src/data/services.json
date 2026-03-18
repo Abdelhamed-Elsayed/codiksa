@@ -1,0 +1,37 @@
+[
+  {
+    "id": "web-development",
+    "title": "Web Development",
+    "description": "Modern, responsive websites and web applications built with the latest technologies. We create fast, secure, and scalable solutions tailored to your business needs.",
+    "icon": "globe",
+    "features": ["Custom web application development", "E-commerce platforms", "API development and integration", "Progressive Web Apps (PWA)", "Content management systems", "Performance optimization"]
+  },
+  {
+    "id": "mobile-development",
+    "title": "Mobile App Development",
+    "description": "Native and cross-platform mobile applications for iOS and Android. We deliver seamless user experiences across all devices.",
+    "icon": "smartphone",
+    "features": ["iOS native development (Swift)", "Android native development (Kotlin)", "Cross-platform (React Native, Flutter)", "App Store optimization", "Push notifications & analytics", "Offline-first architecture"]
+  },
+  {
+    "id": "ui-ux-design",
+    "title": "UI/UX Design",
+    "description": "User-centered design that creates intuitive and engaging digital experiences. We combine aesthetics with functionality.",
+    "icon": "palette",
+    "features": ["User research & personas", "Wireframing & prototyping", "Visual design systems", "Usability testing", "Accessibility compliance", "Design handoff & documentation"]
+  },
+  {
+    "id": "cloud-solutions",
+    "title": "Cloud Solutions",
+    "description": "Scalable cloud infrastructure and serverless architecture for modern applications. We help you leverage the power of the cloud.",
+    "icon": "cloud",
+    "features": ["Cloud migration strategies", "Serverless architecture", "Container orchestration (Kubernetes)", "CI/CD pipeline setup", "Infrastructure as Code", "Cost optimization"]
+  },
+  {
+    "id": "ai-data-solutions",
+    "title": "AI & Data Solutions",
+    "description": "Machine learning and data analytics to unlock insights and automate processes. We turn your data into actionable intelligence.",
+    "icon": "brain",
+    "features": ["Machine learning models", "Natural language processing", "Computer vision solutions", "Predictive analytics", "Data pipeline development", "AI-powered automation"]
+  }
+]

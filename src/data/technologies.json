@@ -1,0 +1,49 @@
+[
+  {
+    "id": "frontend",
+    "name": "Frontend",
+    "description": "Modern frameworks and libraries for building fast, interactive user interfaces.",
+    "icon": "monitor",
+    "technologies": [
+      { "id": "react", "name": "React", "description": "A JavaScript library for building user interfaces with reusable components.", "icon": "/images/tech/react.svg" },
+      { "id": "nextjs", "name": "Next.js", "description": "The React framework for production with server-side rendering and static generation.", "icon": "/images/tech/nextjs.svg" },
+      { "id": "typescript", "name": "TypeScript", "description": "Typed superset of JavaScript that compiles to plain JavaScript.", "icon": "/images/tech/typescript.svg" },
+      { "id": "tailwind", "name": "Tailwind CSS", "description": "A utility-first CSS framework for rapid UI development.", "icon": "/images/tech/tailwind.svg" }
+    ]
+  },
+  {
+    "id": "backend",
+    "name": "Backend",
+    "description": "Robust server-side technologies for building scalable APIs and services.",
+    "icon": "server",
+    "technologies": [
+      { "id": "nodejs", "name": "Node.js", "description": "JavaScript runtime built on Chrome's V8 engine for server-side applications.", "icon": "/images/tech/nodejs.svg" },
+      { "id": "express", "name": "Express", "description": "Fast, unopinionated, minimalist web framework for Node.js.", "icon": "/images/tech/express.svg" },
+      { "id": "python", "name": "Python", "description": "Versatile programming language perfect for backend and data science.", "icon": "/images/tech/python.svg" },
+      { "id": "graphql", "name": "GraphQL", "description": "Query language for APIs that gives clients exactly the data they need.", "icon": "/images/tech/graphql.svg" }    ]
+  },
+  {
+    "id": "database",
+    "name": "Database",
+    "description": "Reliable data storage solutions for structured and unstructured data.",
+    "icon": "database",
+    "technologies": [
+      { "id": "postgresql", "name": "PostgreSQL", "description": "Powerful open source relational database with advanced features.", "icon": "/images/tech/postgresql.svg" },
+      { "id": "mongodb", "name": "MongoDB", "description": "Document-based NoSQL database for modern applications.", "icon": "/images/tech/mongodb.svg" },
+      { "id": "redis", "name": "Redis", "description": "In-memory data structure store for caching and real-time applications.", "icon": "/images/tech/redis.svg" },
+      { "id": "prisma", "name": "Prisma", "description": "Next-generation ORM for Node.js and TypeScript.", "icon": "/images/tech/prisma.svg" }
+        ]
+  },
+  {
+    "id": "devops",
+    "name": "DevOps & Cloud",
+    "description": "Infrastructure and deployment tools for reliable, scalable operations.",
+    "icon": "cloud",
+    "technologies": [
+      { "id": "docker", "name": "Docker", "description": "Platform for developing, shipping, and running applications in containers.", "icon": "/images/tech/docker.svg" },
+      { "id": "aws", "name": "AWS", "description": "Comprehensive cloud platform offering computing, storage, and more.", "icon": "/images/tech/aws.svg" },
+      { "id": "kubernetes", "name": "Kubernetes", "description": "Container orchestration system for automating deployment and scaling.", "icon": "/images/tech/kubernetes.svg" },
+      { "id": "vercel", "name": "Vercel", "description": "Platform for frontend frameworks and static sites, optimized for Next.js.", "icon": "/images/tech/vercel.svg" }
+    ]
+  }
+]

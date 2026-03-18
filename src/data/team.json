@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Ahmed Ayman",
+    "role": "CEO & Co-Founder",
+    "description": "10+ years in tech leadership with expertise in building scalable software products.",
+    "image": "/images/team/ahmed.jpg",
+    "linkedin": "https://linkedin.com/in/username",
+    "github": "https://github.com/username"
+  },
+  {
+    "id": "2",
+    "name": "Omar Mohamed",
+    "role": "CTO & Co-Founder",
+    "description": "Former Google engineer with deep expertise in distributed systems and cloud architecture.",
+    "image": "/images/team/omar.jpg",
+    "linkedin": "https://linkedin.com/in/username",
+    "github": "https://github.com/username"
+  },
+  {
+    "id": "3",
+    "name": "Mohamed Ali",
+    "role": "Head of Design",
+    "description": "Award-winning designer passionate about creating intuitive and accessible user experiences.",
+    "image": "/images/team/mohamed.jpg",
+    "linkedin": "https://linkedin.com/in/username",
+    "github": "https://github.com/username"
+  },
+  {
+    "id": "4",
+    "name": "Abdelhamed Elsayed",
+    "role": "Lead Developer",
+    "description": "Full-stack expert specializing in React, Node.js, and cloud-native applications.",
+    "image": "/images/team/hamid.jpg",
+    "linkedin": "https://linkedin.com/in/username",
+    "github": "https://github.com/username"
+  },
+  {
+    "id": "5",
+    "name": "Youssef Ali",
+    "role": "DevOps Engineer",
+    "description": "Infrastructure specialist ensuring 99.99% uptime and seamless CI/CD pipelines.",
+    "image": "/images/team/youssef.jpg",
+    "linkedin": "https://linkedin.com/in/username",
+    "github": "https://github.com/username"
+  },
+  {
+    "id": "6",
+    "name": "Mariam Tarek",
+    "role": "Mobile Developer",
+    "description": "React Native and Flutter expert delivering seamless cross-platform mobile experiences.",
+    "image": "/images/team/mariam.jpg",
+    "linkedin": "https://linkedin.com/in/username",
+    "github": "https://github.com/username"
+  }
+]

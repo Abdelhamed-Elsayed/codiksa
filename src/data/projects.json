@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "slug": "financeflow-dashboard",
+    "title": "FinanceFlow Dashboard",
+    "client": "FinTech Corp",
+    "year": 2025,
+    "category": "Web Application",
+    "description": "A comprehensive financial management platform with real-time analytics, budgeting tools, investment tracking, and automated reporting built for enterprise clients.",
+    "image": "/images/projects/financeflow.jpg",
+    "tags": ["React", "Node.js", "PostgreSQL", "AWS"],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "healthsync-mobile-app",
+    "title": "HealthSync Mobile App",
+    "client": "HealthSync Inc.",
+    "year": 2025,
+    "category": "Mobile Application",
+    "description": "Cross-platform health and wellness application featuring fitness tracking, personalized meal planning, telehealth integration, and health metrics dashboard.",
+    "image": "/images/projects/healthsync.jpg",
+    "tags": ["React Native", "TypeScript", "Firebase", "HealthKit"],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "slug": "ecocommerce-platform",
+    "title": "EcoCommerce Platform",
+    "client": "GreenMart Global",
+    "year": 2024,
+    "category": "E-commerce",
+    "description": "Sustainable e-commerce marketplace connecting eco-conscious consumers with green businesses featuring carbon footprint tracking and ethical sourcing verification.",
+    "image": "/images/projects/ecocommerce.jpg",
+    "tags": ["Next.js", "Stripe", "MongoDB", "Vercel"],
+    "featured": true
+  },
+  {
+    "id": "4",
+    "slug": "smartlogistics-hub",
+    "title": "SmartLogistics Hub",
+    "client": "LogiTech Solutions",
+    "year": 2024,
+    "category": "Enterprise Solution",
+    "description": "AI-powered logistics management system with route optimization, real-time fleet tracking, predictive maintenance, and automated dispatch scheduling.",
+    "image": "/images/projects/smartlogistics.jpg",
+    "tags": ["Python", "TensorFlow", "PostgreSQL", "Docker"],
+    "featured": false
+  },
+  {
+    "id": "5",
+    "slug": "edulearn-platform",
+    "title": "EduLearn Platform",
+    "client": "EduLearn Inc.",
+    "year": 2024,
+    "category": "EdTech",
+    "description": "Interactive online learning platform with live video classes, AI-powered tutoring, progress tracking, and certification management for educational institutions.",
+    "image": "/images/projects/edulearn.jpg",
+    "tags": ["Vue.js", "Node.js", "WebRTC", "MongoDB"],
+    "featured": false
+  }
+]

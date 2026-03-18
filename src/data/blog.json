@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "slug": "future-of-web-development-2026",
+    "title": "The Future of Web Development: Trends to Watch in 2026",
+    "excerpt": "Explore the emerging technologies and methodologies shaping the future of web development, from AI-powered tools to new frameworks.",
+    "content": "The web development landscape is evolving rapidly. In 2026, we're seeing AI-powered development tools become mainstream, with code assistants helping developers write better code faster. WebAssembly is gaining traction for performance-critical applications, while edge computing is reshaping how we think about server-side rendering. The rise of meta-frameworks like Next.js and Remix has changed how teams approach full-stack development, making it easier to build performant, SEO-friendly applications. Additionally, the focus on Core Web Vitals and user experience metrics has pushed developers to optimize for real-world performance.",
+    "category": "Technology",
+    "image": "/images/blog/future-web-dev.jpg",
+    "author": { "name": "Ahmed Ayman", "avatar": "/images/team/ahmed.jpg" },
+    "date": "2026-03-05",
+    "readTime": 8,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "slug": "scalable-applications-microservices",
+    "title": "Building Scalable Applications with Microservices",
+    "excerpt": "Learn how microservices architecture can help you build resilient and maintainable applications at scale.",
+    "content": "Microservices architecture has become the go-to approach for building large-scale applications. By breaking down a monolithic application into smaller, independent services, teams can develop, deploy, and scale each component independently. This approach improves fault isolation, enables technology diversity, and allows for more granular scaling. However, it also introduces complexity in terms of service communication, data consistency, and operational overhead. In this article, we explore best practices for designing microservices, including API gateway patterns, event-driven communication with message queues, and containerization with Docker and Kubernetes.",
+    "category": "Architecture",
+    "image": "/images/blog/microservices.jpg",
+    "author": { "name": " Omar Mohamed", "avatar": "/images/team/omar.jpg" },
+    "date": "2026-02-28",
+    "readTime": 6,
+    "featured": false
+  },
+  {
+    "id": "3",
+    "slug": "ai-powered-development",
+    "title": "AI-Powered Development: Tools and Best Practices",
+    "excerpt": "Discover how AI is revolutionizing the software development workflow and boosting developer productivity.",
+    "content": "Artificial intelligence is transforming software development in profound ways. From GitHub Copilot to Claude and GPT-4, AI assistants are helping developers write code faster, debug issues more efficiently, and generate documentation automatically. These tools are particularly powerful for boilerplate code generation, test writing, and code reviews. However, developers must use them responsibly, understanding their limitations and always reviewing AI-generated code. The key is to use AI as a productivity multiplier while maintaining code quality and security standards.",
+    "category": "AI",
+    "image": "/images/blog/ai-development.jpg",
+    "author": { "name": "Mohamed Ali", "avatar": "/images/team/mohamed.jpg" },
+    "date": "2026-02-20",
+    "readTime": 7,
+    "featured": false
+  },
+  {
+    "id": "4",
+    "slug": "designing-for-accessibility",
+    "title": "Designing for Accessibility: A Comprehensive Guide",
+    "excerpt": "Why accessibility matters and how to implement inclusive design practices in your web applications.",
+    "content": "Web accessibility is not just a legal requirement—it's a moral imperative and good business practice. With over 1 billion people worldwide living with some form of disability, building accessible applications expands your user base and improves the experience for everyone. This guide covers WCAG 2.1 guidelines, ARIA attributes, keyboard navigation, color contrast requirements, and screen reader compatibility. We also discuss how to integrate accessibility testing into your CI/CD pipeline using tools like axe-core and Lighthouse.",
+    "category": "Design",
+    "image": "/images/blog/accessibility.jpg",
+    "author": { "name": "Mariam Tarek", "avatar": "/images/team/mariam.jpg" },
+    "date": "2026-02-15",
+    "readTime": 10,
+    "featured": false
+  },
+  {
+    "id": "5",
+    "slug": "database-optimization-high-traffic",
+    "title": "Database Optimization Techniques for High Traffic",
+    "excerpt": "Strategies and best practices for optimizing database performance under heavy load.",
+    "content": "Database performance is critical for any high-traffic application. Poor database design and queries can bring even the most powerful servers to their knees. This article covers essential optimization techniques including indexing strategies, query optimization, connection pooling, caching with Redis, read replicas, and database sharding. We also discuss monitoring tools and how to identify performance bottlenecks using EXPLAIN ANALYZE in PostgreSQL and similar tools in other databases.",
+    "category": "Database",
+    "image": "/images/blog/database-optimization.jpg",
+    "author": { "name": "Youssef Ali", "avatar": "/images/team/youssef.jpg" },
+    "date": "2026-01-30",
+    "readTime": 9,
+    "featured": false
+  },
+  {
+  "id": "6",
+  "slug": "react-20-whats-new",
+  "title": "React 20: What's New and Migration Guide",
+  "excerpt": "A deep dive into the latest React 20 features and how to migrate your existing projects.",
+  "content": "React 20 is here, and it brings a wave of exciting improvements that make building user interfaces faster and more intuitive than ever. The most notable addition is the new compiler that automatically optimizes your components, eliminating the need for manual useMemo and useCallback calls in most cases. This means cleaner code and better performance out of the box. Another major feature is the improved Suspense API, which now handles async operations more gracefully with built-in loading states. The new use() hook simplifies data fetching by allowing you to read promises directly in render. Server Components have also been refined, with better streaming support and reduced bundle sizes. For migration, the React team has provided a codemod tool that handles most breaking changes automatically. The key changes to watch out for are the deprecated legacy Context API, the removal of string refs, and the updated event system. Overall, React 20 represents a significant leap forward in developer experience and application performance.",
+  "category": "Technology",
+  "image": "/images/blog/react-20.jpg",
+  "author": {
+    "name": "Abdelhamid Elsayed",
+    "avatar": "/images/team/hamid.jpg"
+  },
+  "date": "2026-02-05",
+  "readTime": 12,
+  "featured": false
+}
+]
