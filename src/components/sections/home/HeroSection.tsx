@@ -18,7 +18,9 @@ export default function HeroSection() {
             Scalable
           </span>
           <br />
-          Software Solutions
+          <span className='bg-clip-text text-transparent'
+          style={{ backgroundImage: 'var(--brand-gradient)' }}
+          >Software</span> Solutions
         </h1>
 
         <p className="text-lg sm:text-xl max-w-2xl leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
